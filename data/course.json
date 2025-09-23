@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies",
+      "Transportation Planning"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Transportation Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ]
+  ],
+  "legacy_uid": "34e7368f-6af2-3793-8482-03876e93f29d",
+  "instructors": {
+    "content": [
+      "fff85a2c-0671-df6d-51e3-ca4a1b348f21",
+      "ab73267a-6062-632f-68f8-eaf444fbb51a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b3cb1a1f-a9da-6508-8f2a-b2a8456d3fd1",
+    "website": "1-225j-transportation-flow-systems-fall-2002"
+  },
+  "course_title": "Transportation Flow Systems",
+  "course_description": "Design, operation, and management of traffic flows over complex transportation networks are the foci of this course. It covers two major topics: traffic flow modeling and traffic flow operations. Sub-topics include deterministic and probabilistic models, elements of queuing theory, and traffic assignment. Concepts are illustrated through various applications and case studies. This is a half-term subject offered during the second half of the semester.\n",
+  "department_numbers": [
+    "1",
+    "ESD"
+  ],
+  "extra_course_numbers": "ESD.205J",
+  "primary_course_number": "1.225J",
+  "course_image_thumbnail": {
+    "content": "39ba0103-53f2-3bd4-2a9a-ed888b5dd5ce",
+    "website": "1-225j-transportation-flow-systems-fall-2002"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "674f5abd-e855-4b30-a323-b47f95243680",
+  "site_short_id": "1.225j-fall-2002",
+  "site_url_path": "courses/1-225j-transportation-flow-systems-fall-2002",
+  "title": "Course Metadata"
+}
