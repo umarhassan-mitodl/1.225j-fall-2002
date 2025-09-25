@@ -4,6 +4,8 @@ description: Mathematical formula.
 file: /courses/1-225j-transportation-flow-systems-fall-2002/08127aabdab235f087c074f901e68df4_image014.jpg
 file_size: 3530
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
