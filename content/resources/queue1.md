@@ -4,6 +4,8 @@ description: This is a supporting file for lecture 9.
 file: /courses/1-225j-transportation-flow-systems-fall-2002/691a61532353c5e83c82a1245e626036_queue1.xls
 file_size: 248832
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
