@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-225j-transportation-flow-systems-fall-2002/4f0c691409cbdb2131eb84517f7f6fae_trafficflowwrapup.pdf
 file_size: 57673
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

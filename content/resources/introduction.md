@@ -4,8 +4,6 @@ description: This file includes introductory notes for the course.
 file: /courses/1-225j-transportation-flow-systems-fall-2002/d2026ee2e23766bc7eef945e38f609cd_introduction.pdf
 file_size: 48982
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

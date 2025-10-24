@@ -4,8 +4,6 @@ description: Excel spreadsheet to support lecture on Modeling Air Traffic Flows.
 file: /courses/1-225j-transportation-flow-systems-fall-2002/d1948de5c11156ff7acf935f25830e9b_exampleforlecture2.xls
 file_size: 17920
 file_type: application/msword
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

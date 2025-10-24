@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-225j-transportation-flow-systems-fall-2002/1c4cc6fa1b497edb86f859b7abfaa4e9_lecture11.pdf
 file_size: 113163
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
